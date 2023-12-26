@@ -1,9 +1,9 @@
 import React, { Fragment } from "react";
-import TopNavbar from "../../Coponents/Header/TopNavbar";
-import HeaderSlider from "../../Coponents/Slider/HeaderSlider";
-import AllCategories from "../../Coponents/Categories/AllCategories";
-import LatestProducts from "../../Coponents/Product/LatestProducts";
-import Footer from "../../Coponents/Footer/Footer";
+import TopNavbar from "../../components/Header/TopNavbar";
+import HeaderSlider from "../../components/Slider/HeaderSlider";
+import AllCategories from "../../components/Categories/AllCategories";
+import LatestProducts from "../../components/Product/LatestProducts";
+import Footer from "../../components/Footer/Footer";
 function Home() {
   return (
     <Fragment>

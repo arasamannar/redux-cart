@@ -2,9 +2,9 @@ import React, { Fragment } from "react";
 import { Button, Card, Col, Container, Row } from "react-bootstrap";
 import { useSelector } from "react-redux";
 import { Link } from "react-router-dom";
-import CartItemCard from "../Coponents/Cart/CartItemCard";
-import Footer from "../Coponents/Footer/Footer";
-import TopNavbar from "../Coponents/Header/TopNavbar";
+import CartItemCard from "../components/Cart/CartItemCard";
+import Footer from "../components/Footer/Footer";
+import TopNavbar from "../components/Header/TopNavbar";
 import {
   subTotalPrice,
   totalPrice,

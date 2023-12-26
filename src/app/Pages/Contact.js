@@ -1,7 +1,7 @@
 import React, { Fragment } from "react";
 import { Button, Card, Container, Form } from "react-bootstrap";
-import Footer from "../Coponents/Footer/Footer";
-import TopNavbar from "../Coponents/Header/TopNavbar";
+import Footer from "../components/Footer/Footer";
+import TopNavbar from "../components/Header/TopNavbar";
 
 function Contact() {
   return (

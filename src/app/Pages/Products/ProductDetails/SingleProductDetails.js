@@ -1,11 +1,11 @@
 import React, { Fragment, useEffect, useState } from "react";
 import { Button, Col, Container, Image, Row } from "react-bootstrap";
 import { Link, useParams } from "react-router-dom";
-import TopNavbar from "../../../Coponents/Header/TopNavbar";
+import TopNavbar from "../../../components/Header/TopNavbar";
 import "./ProductDetails.css";
 import { FaPlus, FaMinus } from "react-icons/fa";
 import { useDispatch, useSelector } from "react-redux";
-import Footer from "../../../Coponents/Footer/Footer";
+import Footer from "../../../components/Footer/Footer";
 import { addToCarts } from "../../../Features/Cart/CartSlice";
 
 function SingleProductDetails() {

@@ -1,8 +1,8 @@
 import React, { Fragment } from "react";
 import { Container } from "react-bootstrap";
 import { Link } from "react-router-dom";
-import Footer from "../Coponents/Footer/Footer";
-import TopNavbar from "../Coponents/Header/TopNavbar";
+import Footer from "../components/Footer/Footer";
+import TopNavbar from "../components/Header/TopNavbar";
 
 function PageNotFound() {
   return (

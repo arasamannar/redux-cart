@@ -1,9 +1,9 @@
 import React, { Fragment } from "react";
 import { Col, Container, Row } from "react-bootstrap";
 import { useSelector } from "react-redux";
-import Footer from "../../Coponents/Footer/Footer";
-import TopNavbar from "../../Coponents/Header/TopNavbar";
-import ProductCard from "../../Coponents/Product/Card/ProductCard";
+import Footer from "../../components/Footer/Footer";
+import TopNavbar from "../../components/Header/TopNavbar";
+import ProductCard from "../../components/Product/Card/ProductCard";
 
 function AllProducts() {
   const { products } = useSelector((state) => state.products);
