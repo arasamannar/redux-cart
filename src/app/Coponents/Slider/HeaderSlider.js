@@ -9,7 +9,7 @@ function HeaderSlider() {
           <img
             className="d-block w-100"
             style={{ height: "100vh", objectFit: "contain" }}
-            src="https://m.media-amazon.com/images/I/61bq27JrEvL._AC_UF894,1000_QL80_.jpg"
+            src="https://5.imimg.com/data5/JT/GF/XA/SELLER-15610517/musqari-multipurpose-leather-handbags-for-ladies-cum-shoulder-bag.jpg"
             alt="pure pu ladies bag"
           />
           <Carousel.Caption className="bg-white">

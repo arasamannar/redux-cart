@@ -23,7 +23,7 @@ function TopNavbar() {
             <NavLink to={"/"} className="nav-link">
               Home
             </NavLink>
-            <NavDropdown title="Catrgoris" id="basic-nav-dropdown">
+            <NavDropdown title="Categoris" id="basic-nav-dropdown">
               {categories &&
                 categories.map((c, index) => {
                   return (
