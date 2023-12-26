@@ -7,10 +7,7 @@ function Footer() {
       <RightCartIcon />
       <div className="text-center bg-dark text-white py-2 fixed-bottom">
         <span>
-          Copyright & Developed by{" "}
-          <a href="https://www.linkedin.com/in/almamunhossain/" target="blank">
-           S-Bazzar
-          </a>
+          Copyright & Developed by @DevWeb
         </span>
       </div>
     </Fragment>
